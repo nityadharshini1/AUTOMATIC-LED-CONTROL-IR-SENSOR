@@ -99,11 +99,15 @@ int main(void)
     }
 }
 ```
+
+
 ---
 ### OUTPUT
 CASE 1: LED ON 
+![WhatsApp Image 2025-11-15 at 07 35 44_d2d9d748](https://github.com/user-attachments/assets/eda66007-5995-4833-b154-9fa487f8c65c)
 
 CASE 2: LED OFF
+![WhatsApp Image 2025-11-15 at 07 36 03_0952aa72](https://github.com/user-attachments/assets/6c1aff4f-77a5-449b-b96b-3c92aa6c30b7)
 
 ---
 ### RESULT
